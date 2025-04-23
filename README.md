@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> 🎓 Estudante IFC Araquari<br>  📫 Contatar-me: mateus.oliveira.ifc@gmail.com</p>
+<p align="left"> 🎓 Estudante do Instituto Federal Catarinense<br>  📫 Contatar-me: mateus.oliveira.ifc@gmail.com</p>
 
 ###
 
